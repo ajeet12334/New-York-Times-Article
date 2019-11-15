@@ -1,5 +1,5 @@
 # New York Times Most Popular Article App
-This is simple app which fatch the data from https://developer.nytimes.com and showing in Master/Detail format using Hooks.
+This is simple app which fetch the data from https://developer.nytimes.com and showing in Master/Detail format using Hooks.
 
 ## Getting started
 
