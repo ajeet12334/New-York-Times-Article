@@ -18,6 +18,6 @@ This is simple app which fetch the data from https://developer.nytimes.com and s
 1. Clone the App in VS code using [NY App](https://github.com/ajeet12334/New-York-Times-Article.git)
 1. npm install
 2. change SDK path to run app on android in local.properties file
-3. react-native run-android
+3. react-native run-android 
 
 Note : This App is using latest hooks i.e. useState, useEffect, useReducer. I used useReducer to manage the state due to its small app otherwise i will use React-redux. I used functional programming so all components are functional component.
